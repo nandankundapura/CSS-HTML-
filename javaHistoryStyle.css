@@ -1,0 +1,33 @@
+p {
+    color: chocolate;
+  text-align: center;
+  background-color: lawngreen;
+}
+
+.history {
+  color: darkblue;
+  background-color: gold;
+  border: 3px  navy solid;
+  text-align: left;
+}
+
+.class-info {
+  color: darkred;
+  background-color: thistle;
+  border: 5px  crimson solid;
+  text-align: right;
+}
+
+.object-info {
+  color: darkgreen;
+  background-color: silver;
+  border: 4px outset darkgreen;
+  text-align: center;
+}
+
+.variables {
+  color: purple;
+  background-color: floralwhite;
+  border: 3px dotted purple;
+  text-align: left;
+}
